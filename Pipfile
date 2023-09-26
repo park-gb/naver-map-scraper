@@ -4,6 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+jupyter = "*"
+ipykernel = "*"
+selenium = "*"
+pandas = "*"
+webdriver-manager = "*"
+openpyxl = "*"
+tqdm = "*"
 
 [dev-packages]
 
